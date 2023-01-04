@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jennet</h1>
-<h3 align="center">👩🏻‍💻A passionate frontend developer from Malaysia</h3>
+<h3 align="center">👩🏻‍💻A passionate frontend developer from Turkmenistan</h3>
 
 
 - 🌱 I’m currently learning **React Native**
