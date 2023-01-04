@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **jennethemrayeva2@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HdhRvjnPIYshuKSzIIgc4MREDwkJ84tj/view?usp=sharing]
+- 📄 Know about my experiences (https://drive.google.com/file/d/1HdhRvjnPIYshuKSzIIgc4MREDwkJ84tj/view?usp=sharing)
 
 - ⚡ Fun fact **I always remember my dreams**
 
