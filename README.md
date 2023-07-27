@@ -2,7 +2,7 @@
 <h3 align="center">👩🏻‍💻A passionate frontend developer from Turkmenistan</h3>
 
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Node.js**
 
 - 📫 How to reach me **jennethemrayeva2@gmail.com**
 
