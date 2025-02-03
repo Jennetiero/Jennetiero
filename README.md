@@ -2,8 +2,6 @@
 <h3 align="center">👩🏻‍💻A passionate frontend developer from Turkmenistan</h3>
 
 
-- 🌱 I’m currently learning **Node.js**
-
 - 📫 How to reach me **jennethemrayeva2@gmail.com**
 
 - 📄 Know about my experiences (https://drive.google.com/file/d/1lr3Ufb-1O79exbUWjBOkvi7dTE_DUs7u/view?usp=sharing)
