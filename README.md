@@ -4,10 +4,6 @@
 
 - 📫 How to reach me **jennethemrayeva2@gmail.com**
 
-- 📄 Know about my experiences (https://drive.google.com/file/d/1lr3Ufb-1O79exbUWjBOkvi7dTE_DUs7u/view?usp=sharing)
-
-- ⚡ Fun fact **I always remember my dreams**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jennet hemrayeva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jennet hemrayeva" height="30" width="40" /></a>
